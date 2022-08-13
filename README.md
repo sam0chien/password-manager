@@ -1,1 +1,2 @@
-# JUST A PASSWORD MANAGER APP
+# Password Manager
+GUI application practice.
